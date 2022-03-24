@@ -1,0 +1,14 @@
+site_name: us-consumer-finance-complaints
+site_description: US consumer complaints on financial products and company responses
+site_author: Paul Steffen
+
+theme:
+  name: material
+  logo: betclic_logo.png
+  favicon: betclic_logo.png
+
+pages:
+  - Home: index.md
+
+repo_url: https://github.com/PaulSteffen-betclic/us-consumer-finance-complaints
+
