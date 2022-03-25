@@ -8,6 +8,8 @@ repository = "https://github.com/PaulSteffen-betclic/US Consumer Finance Complai
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
 kaggle = "^1.5.12"
+sklearn = "^0.0"
+plotly = "^5.6.0"
 
 [tool.poetry.dev-dependencies]
 mkdocs-material = "^8.1.9"
